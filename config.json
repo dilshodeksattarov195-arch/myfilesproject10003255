@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsonnect",
+        "uuid": 17899245,
+        "checksum": "46mpkk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
